@@ -6,5 +6,5 @@ Overview: CodeBasics certified exploary data analysis project as i have been ass
 
 My task starts with a meeting with various stack holders, IT team and other higher authorities of the company. we decided to follow AIMS GRID method to managing this project.
 
-##The AMIS GRID Component I Used In The Project##
+## The AMIS GRID Component I Used In The Project ##
 ### PURPOSE ###
