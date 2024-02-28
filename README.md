@@ -9,8 +9,8 @@ Diagnostic analytics help answer questions about why events happened. Diagnostic
 3. Use statistical techniques to discover relationships and trends that explain these anomalies.
 
 
-## Project Summery: Atliq Hardware Sales Data Analysis.
-## Database name: db_dump.sql
+### Project Summery: Atliq Hardware Sales Data Analysis.
+### Database name: db_dump.sql
 
 ### Overview: CodeBasics certified exploary data analysis project as i have been assigned as a data analyst in Atliq Hardware and been assigned a project to make a intractive PowerBI dashboard that will helps understand the company growth situation. 
 
