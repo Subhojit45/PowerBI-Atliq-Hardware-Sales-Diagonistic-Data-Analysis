@@ -1,4 +1,4 @@
-# Data_Projects
+# DIAGONISTIC DATA ANALYSIS #
 Project Summery: Atliq Hardware Sales Data Analysis.
 Database name: db_dump.sql
 
