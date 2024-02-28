@@ -18,3 +18,8 @@ My task starts with a meeting with various stack holders, IT team and other high
 
 ## The AMIS GRID Component I Used In The Project ##
 ### PURPOSE ###
+### 1. What do we want to achieve? 
+### 2. What to do in order to achieve it?
+
+In our case, the purpose would be to make a Power BI Dashboard that shows sales insights of different regions & markets of india and to understand the trend in sales based on previous reports and study why there was a decrease and finally increase sales in the down performing markets.
+
