@@ -18,18 +18,18 @@ My task starts with a meeting with various stack holders, IT team and other high
 
 ## The AMIS GRID Component I Used In The Project 
 ### PURPOSE 
-### 1. What do we want to achieve? 
-### 2. What to do in order to achieve it?
+#### 1. What do we want to achieve? 
+#### 2. What to do in order to achieve it?
 
 In our case, the purpose would be to make a Power BI Dashboard that shows sales insights of different regions & markets of india and to understand the trend in sales based on previous reports and study why there was a decrease and finally increase sales in the down performing markets.
 
 ### Stakeholders
-### Which teams or Who from the company will be involved?
+#### Which teams or Who from the company will be involved?
 
 In our Atliq Hardware's case the following teams will be involved
-### * General Sales Director
-### * Regional Sales Managers
-### * Product Managers
-### * Data and Analytics Team (This is where I am now!)
+#### * General Sales Director
+#### * Regional Sales Managers
+#### * Product Managers
+#### * Data and Analytics Team (This is where I am now!)
 #### * IT or Software Engineers Team 
 
