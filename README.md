@@ -40,3 +40,13 @@ I want to increase sales insight. Instead a solid platform where the result can 
 
 In our Atliq Hardware case, this will be a Power BI Dashboard which is automated and provides sales insights which are quick and latest thereby data driven decision making can be implemented. This will help the sales director and regional managers to look into real time information on the sales numbers.
 
+### SUCCESS CRITERIA
+Defining how the project was successful after the completion of the project for which company may have spent few million dollars. We need to specify the exact success criteria
+
+In our Atliq Hardware case,
+1. We want the sales team to make better decisions and prove say 12% cost savings.
+2. Bring in powerful sales insights dashboards with latest up to date information.
+3. Avoid manual data gathering through excel which can save 20% of their business time thereby they can invest that time in other value added tasks.
+
+
+
