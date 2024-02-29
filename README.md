@@ -34,7 +34,7 @@ In our Atliq Hardware's case the following teams will be involved
 #### * IT or Software Engineers Team 
 
 ### END REASULT
-##### After the project is over what do we want to achieve? 
+##### 1. After the project is over what do we want to achieve? 
 
 I want to increase sales insight. Instead a solid platform where the result can be projected.
 
