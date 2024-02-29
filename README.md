@@ -33,3 +33,10 @@ In our Atliq Hardware's case the following teams will be involved
 #### * Data and Analytics Team (This is where I am now!)
 #### * IT or Software Engineers Team 
 
+### END REASULT
+##### After the project is over what do we want to achieve? 
+
+I want to increase sales insight. Instead a solid platform where the result can be projected.
+
+In our Atliq Hardware case, this will be a Power BI Dashboard which is automated and provides sales insights which are quick and latest thereby data driven decision making can be implemented. This will help the sales director and regional managers to look into real time information on the sales numbers.
+
